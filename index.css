@@ -1,0 +1,25 @@
+*{
+    padding:0px ;
+    margin:0px;
+}
+#header{
+    background-color: darkgray;
+    padding: 10px;
+}
+#nav-bar{
+    text-align: center;
+
+
+    
+}
+.folio{
+    color:white;
+    font-size: 30px;
+    text-decoration: none;
+}
+.nav1{
+    font-size:25px;
+    text-decoration: none;
+    color:white ;
+    
+}
